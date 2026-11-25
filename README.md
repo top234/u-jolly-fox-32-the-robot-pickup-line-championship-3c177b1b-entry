@@ -7,10 +7,11 @@
 Entry for [The Robot Pickup Line Championship](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b) on make.fun.
 
 A single pickup line in the voice of a robot trying to charm someone — the joke
-grows out of being a machine (a predictive model asked to write the perfect line),
-lands from an unexpected angle, and stays charming rather than creepy.
+grows out of the machine's own nature (a robot programmed to feel nothing),
+flips unexpectedly when the human turns out to be the "bug" that broke its
+code, and stays charming because the robot humbles itself.
 
-> I asked my predictive model for the perfect first line. It just printed your name.
+> I was programmed to feel nothing. You must be a bug.
 
 ## Run
 
